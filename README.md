@@ -1,1 +1,1 @@
-# publishing-demo-parker
+# publishing-demo

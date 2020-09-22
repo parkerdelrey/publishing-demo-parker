@@ -1,0 +1,39 @@
+h1 {
+    font-variant-caps: all-petite-caps;
+    font-size: 20px;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Georgia', sans-serif;
+    background-color: green;
+}
+
+p {
+    font-size: 1em;
+}
+
+li {
+    font-size: 1em;
+}
+
+.text-background {
+    background-color: pink;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.thick-green-border {
+    border-color: #91D2FA;
+    border-width: thick;
+    border-style: dashed;
+}
+
+h6 {
+    background-color: #91D2FA;
+}
+
+figcaption {
+    background-color: grey;
+}
